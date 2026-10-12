@@ -2,7 +2,7 @@
 
 # Hi, I'm deructu 👋
 
-### Data Scientist (Trainee) · ML · Data Engineering · NLP
+### Data Scientist (Junior) · ML · NLP · CV
 
 *Turning messy product data into models that work in production.*
 
@@ -41,7 +41,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🔗 **[project-name](https://github.com/deructu/project-name)** | Short one-line description of what it does and the result | `Python` `PyTorch` |
-| 🔗 **[project-name](https://github.com/deructu/project-name)** | Short one-line description of what it does and the result | `SQL` `dbt` `Airflow` |
 | 🔗 **[project-name](https://github.com/deructu/project-name)** | Short one-line description of what it does and the result | `LangChain` `RAG` |
 
 > Replace the rows above with your public repos.
@@ -52,7 +51,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=deructu&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deructu&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com?user=deructu&theme=tokyonight&hide_border=true)
 
 </div>
